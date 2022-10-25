@@ -15,3 +15,48 @@ For me calendars and plannera are necessary, otherwise I can loose track of the 
 "It depends if I'm absorbed by something or not. If I'm bored, my brain can't hold onto something and time goes pretty slowly. But if I'm doing something that interess me and that litteraly absorbs my notion of time, everything goes pretty/too much quickly. To me, time is like moutains. Sometime, it's hard to cross and to climb and sometime, in descent, it's very enjoyable but always too short."
 
 "It doesn't matter how much time pass, the truth always comes out."
+
+
+# Personal observations
+
+## Photos fading over time
+Photos are an attempt to capture/stop time. But they always end up being themselves impacted by the passage of time.
+
+[For examples, polaroids photos](https://imagerestorationcenter.com/how-long-do-polaroids-last/) have a "close relationship" with time.
+[Art project using old polaroids](https://www.images.ch/archives/artiste/cristina-de-middel/)
+
+[Cyanotypes](https://en.wikipedia.org/wiki/Cyanotype#Long-term_preservation) are a bit more special since they have a regenerative behavior.
+
+## How long would it take to a moutain to erode into flat land ?
+
+According to this [website](https://www.quora.com/How-long-would-it-take-for-a-whole-mountain-to-erode-into-flat-land), very long. I think it's interesting to know that something that seems strong and unbreakable to our eyes is slightly changing over time. We don't live long enough to notice the change but it's still happening.
+
+But [climate change](https://www.letemps.ch/suisse/canicule-accelere-lerosion-alpes-accentue-chutes-pierres) is making the eroding more visible.
+
+## The Déjà vu
+
+That feeling when you're sure you know a place even if it's the first time you visit it.
+May be caused by [different factors](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-2909.129.3.394) but I think the one about how [brain store memories](https://www.thoughtco.com/causes-of-deja-vu-4159448) is the most interesting.
+
+## Clocks and cuckoo clocks collections
+
+These objects can make a lot of different sounds. The cuckoos seem to have a sort of ritual (waiting for the bird to sing and and little music-dance to play).
+
+[Cuckoo collection example](https://www.youtube.com/watch?v=xHYhd7QAO5U)
+[Clock collection example](https://www.youtube.com/watch?v=F5NMnA_13kM)
+
+## Places where we wait
+
+Bus stop
+Train station
+In the train
+Wainting rooms (doctor, dentist, ...)
+Administrative buildings
+Airports
+The elevator
+When we have to wait in line
+...
+
+## When Pop Cultures talks about time perception
+
+[Everything Stays - Rebecca Sugar](https://www.youtube.com/watch?v=xnv65fHoLTQ)
