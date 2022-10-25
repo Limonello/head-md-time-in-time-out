@@ -23,6 +23,7 @@ For me calendars and plannera are necessary, otherwise I can loose track of the 
 Photos are an attempt to capture/stop time. But they always end up being themselves impacted by the passage of time.
 
 [For examples, polaroids photos](https://imagerestorationcenter.com/how-long-do-polaroids-last/) have a "close relationship" with time.
+
 [Art project using old polaroids](https://www.images.ch/archives/artiste/cristina-de-middel/)
 
 [Cyanotypes](https://en.wikipedia.org/wiki/Cyanotype#Long-term_preservation) are a bit more special since they have a regenerative behavior.
@@ -36,7 +37,7 @@ But [climate change](https://www.letemps.ch/suisse/canicule-accelere-lerosion-al
 ## The Déjà vu
 
 That feeling when you're sure you know a place even if it's the first time you visit it.
-May be caused by [different factors](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-2909.129.3.394) but I think the one about how [brain store memories](https://www.thoughtco.com/causes-of-deja-vu-4159448) is the most interesting.
+May be caused by [different factors](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-2909.129.3.394) but I think the one about how [brain stores memories](https://www.thoughtco.com/causes-of-deja-vu-4159448) is the most interesting.
 
 ## Clocks and cuckoo clocks collections
 
