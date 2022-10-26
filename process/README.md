@@ -66,6 +66,10 @@ When we have to wait in line
 
 ...
 
+## Perception of time in dreams
+
+Maybe try to list some dreams (right after waking up) and how much "time" passed during the dream (a few minutes, hours, days, years, ...).
+
 ## When Pop Cultures talks about time perception
 
 [Everything Stays - Rebecca Sugar](https://www.youtube.com/watch?v=xnv65fHoLTQ)
