@@ -49,13 +49,21 @@ These objects can make a lot of different sounds. The cuckoos seem to have a sor
 ## Places where we wait
 
 Bus stop
+
 Train station
+
 In the train
-Wainting rooms (doctor, dentist, ...)
+
+Waiting rooms (doctor, dentist, ...)
+
 Administrative buildings
+
 Airports
+
 The elevator
+
 When we have to wait in line
+
 ...
 
 ## When Pop Cultures talks about time perception
