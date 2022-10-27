@@ -73,3 +73,87 @@ Maybe try to list some dreams (right after waking up) and how much "time" passed
 ## When Pop Cultures talks about time perception
 
 [Everything Stays - Rebecca Sugar](https://www.youtube.com/watch?v=xnv65fHoLTQ)
+
+# Looking for slight changes on "non-changing subject" in a short time
+
+Taking pictures every 30 minutes of different subjects and listing my sensorial perception about them in an attempt to percieve small changes.
+
+By "non-changing object" I refer to things ta usually don't drastically change in a few hours or in a day.
+
+## Subject 1: Statue
+
+9h09:
+
+Temperature: cold
+
+Temperature around the subject: fresh
+
+Noise: rock, dull
+
+Noises around: twittering birds, cars, cleaning camion (?)
+
+Color: grey slightly brown
+
+Touch: dry, rough
+
+Smell: A little bit earthy
+
+Smells around: Slightly muddy
+
+
+## Subject 2: Windows
+
+9h07:
+
+Temperature: fresh
+
+Temperature around the subject: lukewarm (inside a building)
+
+Noise: Mute glass
+
+Noises around: elevator, echoes of voices, heating system (?)
+
+Color: black for the structure, the glass is half transparent because 
+of the steam.
+
+Touch: dry, smooth
+
+Smell: I just ate a peppermint so I can't feel anything else
+
+Smells around: I just ate a peppermint so I can't feel anything else
+
+## Subject 3: Dandelion
+
+## Subject 4: Cosmos flower
+
+## Subject 5 (pictures only): a leaf mark on the ground
+
+## Questions from this observations
+
+How to observe changes on non-changing objects in a short amount of time ?
+
+Can changes be only temporary ?
+
+...
+
+# The Red Queen Hypothesis/Paradox
+
+We have to move to stay in place. 
+
+## Questions from this hypothesis
+
+# Time and regeneration
+
+As said befor, Cyanotypes have a regenerative behavior. If a cyanotype loses some colors, it can recover them if placed for a certain time in a dark place.
+
+## Questions
+
+Is regeneration being the same as before or being a bit different ?
+
+Restoration is the equivalent of regeneration for objects ?
+
+Is regeneration a way of fighting passing time ?
+
+Or is it a way to stay longer ?
+
+What are human looking for when they think of regeneration ?
