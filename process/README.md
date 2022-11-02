@@ -200,7 +200,7 @@ Person 6 noticed nothing.
 ## Today's notes
 
 <img
-  src="images/20221102/notes_20220211.jpeg.jpg">
+  src="images/notes_20220211.jpeg.jpg">
 
 
 
