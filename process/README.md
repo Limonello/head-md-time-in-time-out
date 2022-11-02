@@ -117,11 +117,83 @@ What are human looking for when they think of regeneration ?
 
 I asked 6 people (including myself) to observe and list for a few days when they use one of their five senses to estimate what time it is.
 
-From these observations, I noticed different things:
+Summary of the observations:
 
-The most used senses are the hear, the sight and the smell. I have no example with the touch or the taste.
-Time references depend of the context.
-If we are not active (just chilling at home), we use less time references (no need to worry about time, less stimulations, ...)
-Past experiences can play a role in the perception of time.
-Time references are used for different time scales (hours, days, months, seasons, ...)
+## Friday
+
+Person 1: 9H23, fog => winter is near/11H40 => red pepper smell => we are no longer in summer
+
+Person 2: Holidays time so no time markers
+
+Person 3: Sunset and a lot of traffic => +- 17H00
+
+Person 4: -
+
+Person 5: Morning, before the sun rises, weeather chill and moist => must be around 8H30-9H00 / 20H42, McDo smell => must be 20H00
+
+Person 6: -
+
+## Saturday
+
+Person 1: 23H30, people outside being very loud despite the night => we are saturday evening
+
+Person 2: Holidays time so no time markers
+
+Person 3: Mid-light, voices of kids playing outside => must be between 11-13H00 / Later that day, was able to anticipate perfectly the time needed to realise something.
+
+Person 4: 5H30, silence, then, birds starting to chirp => the sun's gonna rise soon / Only a few light in a close buildind => it's really early / 6H30, more car noises => people are starting to go to work / 8H30, in the train, not a lot of sounds, people are quiet = early, off-peak time or very late / Two girls speaking swiss-german => the week-end, people are coming home.
+
+Person 5: -
+
+Person 6: -
+
+## Sunday
+
+Person 1: -
+
+Person 2: Holidays time so no time markers
+
+Person 3: Sense of time is broken => we went from summer time to winter time /Guessed the time right but from the summer time point of view.
+
+Person 4: -
+
+Person 5: -
+
+Person 6: -
+
+## Monday
+
+Person 1: 7H48, a lot of students in the train after a certain time with no students => it's the end of the holiday
+
+Person 2: Holidays time so no time markers
+
+Person 3: Perception of time still based on winter time
+
+Person 4: -
+
+Person 5: 17H15, sunset, pink sky => must be around 18H30 (was actually one hour earlier because of winter time)
+
+Person 6: -
+
+## Others
+
+Person 2 specified that, during working days, they used a lot time as a marker (their boss singing indicates +- 12H30, ...). Since they works in a job implying cooking, smell is not a marker for them.
+
+Person 3 use mainly light as time marker.
+
+Person 4 listed some other different time markers as events (market => saturday and wednesday, ...), people (some members of the family present = week-end or holydays), physical reaction (yawn => almost 22H00).
+
+Person 6 noticed nothing.
+
+## From these observations, I noticed different things:
+
+- The most used senses are the hear, the sight and the smell. I have no example with the touch or the taste.
+- Time references depend of the context.
+- If we are not active (just chilling at home), we use less time references (no need to worry about time, less stimulations, ...)
+- Past experiences can play a role in the perception of time.
+- Time references are used for different time scales (hours, days, months, seasons, ...)
+
+## Other references
+
+[An article from the BBC](https://www.bbc.com/future/article/20200306-how-to-live-without-time)
 
