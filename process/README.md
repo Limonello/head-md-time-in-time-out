@@ -197,3 +197,10 @@ Person 6 noticed nothing.
 
 [An article from the BBC](https://www.bbc.com/future/article/20200306-how-to-live-without-time)
 
+## Today's notes
+
+<img
+  src="images/20221102/notes_20220211.jpeg.jpg">
+
+
+
