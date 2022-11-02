@@ -2,6 +2,7 @@
 
 My process and researches for the Time In Time Out project !
 
+## 20.10.2022
 # How do you percieve time ? - Testimonies
 
 "I percieve time as every moment I wait before the next one. I'm cooking right now and this is a good example. Now, I'm waiting for the stock to reduce. That's my unit of time. Then, I'll be waiting for the meat to be cooked. And then that the udon (noodles) are ready. An indivisible unit. An atom of time. It's no use to cut it in half. I see time as the anticipation of a moment to come."
@@ -74,77 +75,29 @@ Maybe try to list some dreams (right after waking up) and how much "time" passed
 
 [Everything Stays - Rebecca Sugar](https://www.youtube.com/watch?v=xnv65fHoLTQ)
 
+
+## 27.10.2022
 # Looking for slight changes on "non-changing subject" in a short time
 
 Taking pictures every 30 minutes of different subjects and listing my sensorial perception about them in an attempt to percieve small changes.
 
 By "non-changing object" I refer to things ta usually don't drastically change in a few hours or in a day.
 
-## Subject 1: Statue
-
-9h09:
-
-Temperature: cold
-
-Temperature around the subject: fresh
-
-Noise: rock, dull
-
-Noises around: twittering birds, cars, cleaning camion (?)
-
-Color: grey slightly brown
-
-Touch: dry, rough
-
-Smell: A little bit earthy
-
-Smells around: Slightly muddy
-
-
-## Subject 2: Windows
-
-9h07:
-
-Temperature: fresh
-
-Temperature around the subject: lukewarm (inside a building)
-
-Noise: Mute glass
-
-Noises around: elevator, echoes of voices, heating system (?)
-
-Color: black for the structure, the glass is half transparent because 
-of the steam.
-
-Touch: dry, smooth
-
-Smell: I just ate a peppermint so I can't feel anything else
-
-Smells around: I just ate a peppermint so I can't feel anything else
-
-## Subject 3: Dandelion
-
-## Subject 4: Cosmos flower
-
-## Subject 5 (pictures only): a leaf mark on the ground
-
-## Questions from this observations
+## Questions
 
 How to observe changes on non-changing objects in a short amount of time ?
 
 Can changes be only temporary ?
 
-...
-
 # The Red Queen Hypothesis/Paradox
 
 We have to move to stay in place. 
 
-## Questions from this hypothesis
-
 # Time and regeneration
 
-As said befor, Cyanotypes have a regenerative behavior. If a cyanotype loses some colors, it can recover them if placed for a certain time in a dark place.
+As said before, Cyanotypes have a regenerative behavior. If a cyanotype loses some colors, it can recover them if placed for a certain time in a dark place.
+
+A certain type of jellyfish can also regenerate itself.
 
 ## Questions
 
@@ -157,3 +110,18 @@ Is regeneration a way of fighting passing time ?
 Or is it a way to stay longer ?
 
 What are human looking for when they think of regeneration ?
+
+
+## 02.11.2022
+# Perceiving time through our five senses.
+
+I asked 6 people (including myself) to observe and list for a few days when they use one of their five senses to estimate what time it is.
+
+From these observations, I noticed different things:
+
+The most used senses are the hear, the sight and the smell. I have no example with the touch or the taste.
+Time references depend of the context.
+If we are not active (just chilling at home), we use less time references (no need to worry about time, less stimulations, ...)
+Past experiences can play a role in the perception of time.
+Time references are used for different time scales (hours, days, months, seasons, ...)
+
