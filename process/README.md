@@ -199,8 +199,7 @@ Person 6 noticed nothing.
 
 ## Today's notes
 
-<img
-  src="images/20221102/notes20221102.jpeg">
+![](images/notes20221102.jpeg)
 
 
 
