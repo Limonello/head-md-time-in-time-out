@@ -204,6 +204,8 @@ Person 6 noticed nothing.
 ## 03.11.2022
 # Using time markers to percieve time
 
+[Example of an app playing with the fact that a group of people has to "reunite" during a random time each day.](https://play.google.com/store/apps/details?id=com.bereal.ft&gl=US)
+
 ## Today's notes
 
 ![](images/20221103/notesA20221103.png)
