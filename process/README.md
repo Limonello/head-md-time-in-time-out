@@ -199,7 +199,14 @@ Person 6 noticed nothing.
 
 ## Today's notes
 
-![](images/notes20221102.jpeg)
+![](images/20221102/notes20221102.jpeg))
 
+## 03.11.2022
+# Using time markers to percieve time
 
+## Today's notes
+
+![](images/20221103/notesA20221103.png)
+
+![](images/20221103/notesB20221103.png)
 
