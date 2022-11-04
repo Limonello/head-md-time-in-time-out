@@ -215,3 +215,7 @@ Person 6 noticed nothing.
 ![](images/20221103/notesC20220311.jpeg)
 
 ![](images/20221103/notesD20220311%201.jpeg)
+
+![](images/20221103/notesE20221103.jpeg)
+
+![](images/20221103/notesF20221103.jpeg)
