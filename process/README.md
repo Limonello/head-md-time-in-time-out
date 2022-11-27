@@ -219,3 +219,73 @@ Person 6 noticed nothing.
 ![](images/20221103/notesE20221103.jpeg)
 
 ![](images/20221103/notesF20221103.jpeg)
+
+## 27.11.2022
+# Perceiving time through our five senses, round 2
+
+Between 03.11 and 27.11, I asked a few people to list the different things they used to estimate what time it is other than clocks and calendars.
+
+PERSON 1: 
+Smell of white wine sauces in the corridor of my building means an old neighbour started cooking => might be around 11H15.
+In the morning, see a lot of people coming from the plateforme where I have to take the train => my train has just arrive.
+When it's the night and I see a very shiny plane that I often mistake for a star => might be around X hour on the dot.
+During the day, light reflecting on objects is almost white and shadows are really small and dark => it's the middle of the day.
+Yellow light, long shadows => The sun's gonna set soon, we're approaching the end of the day.
+When taking the train, I use the time it takes for a it to go from A to B (f. ex. 10 minutes) to estimates how much time passed.
+
+PERSON 2:
+I hear my mother's car during the day => it's 12H10.
+I hear my father's bike (or his car if it's raining) => it's 12H15.
+I hear my neighbours'voices, they take their children to school => it's 8H00 (actually, I was wrong, it was 9H30).
+My father's usually the first one to wake up. If I hear him during holidays => it's around (8H00), excepted some times when he sleeps more.
+I wake up and it's warm but when I look outside, I see some snow on the top of the highest mountains => It's fall.
+
+PERSON 3:
+My cockatiels being loud and singing more than usual => it's the morning
+
+PERSON 4:
+I guess the hour depending of the color of the sky when the sun is rising.
+Sailors are having breakfast in one of the cabin of the boat => between 7H30 and 8H00.
+Fishermen are back and are preparing the fish and cleaning nets => between 8H15 and 8H30
+A woman is waiting at one of the meeting spots to bring children back home => end of school
+Parents waiting at the same kind of spot with their children => 8H05
+The people helping children to cross the street are here => 8H-8H30, 11H30-12H00. 13H00-13H30 and 15H-15H30
+A lot of people at the post office => end of the month, usually saturday (people are paying their bills)
+A lot of students in public transports => classes are about to begin or to end, it's around 8H00, 13H30 or 17H00
+Cat or guinea pigs are excited => around 17-18H00
+I don't sleep well => it's the full moon
+Going to the lake with my friends => it's Sunday, Monday, Wednesday or Friday
+At the lake, a lot of people, then no one and again a lot of people, the same in museums => lunchbreak
+Children at the playground crying and not wanting to go home => around 17H00
+In summer, cars are leaving a parking => midday or around 17H00
+Winter, ski, a lot of people are going down the ski run at the same time => end of the day, around 17H00
+Chimney smoke or grilled chestnuts smell => it's fall
+Using flowers and plants to guess the time of the year => tulips for june, magnolia, japanese cherry, peonies, ... for spring, kiwi trees are losing their leaves, which means it's gonna be time to gather the fruits => around november, ...
+
+PERSON 5:
+Waking up and seing light through the window => it's the morning
+Going back to sleep, waking up later and hearing the family eating => midday
+
+PERSON 6:
+Specific bells sound => Midday
+In summer, specific sunlight in my room helps me to guess what time it is.
+One of my friend is eating a snack => it's around 10H00
+In the train, people are putting their coat on => the train's gonna arrive at the station soon.
+
+PERSON 7:
+Don't have specific time markers and the few ones I had can't be used since I moved in another town.
+
+## Notes about the structure of the prototype made with Twine
+
+![](images/20221127/notes20221127A.jpeg)
+
+![](images/20221127/notes20221127B.jpeg)
+
+
+
+
+
+
+
+
+
