@@ -281,6 +281,31 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 ![](images/20221127/notes20221127B.jpeg)
 
+## 28.11.2022
+# Today's notes
+
+![](images/2022-11-28/notesA.jpeg)
+
+![](images/2022-11-28/notesB.jpeg)
+
+![](images/2022-11-28/notesC.jpeg)
+
+![](images/2022-11-28/notesD.jpeg)
+
+![](images/2022-11-28/notesE.jpeg)
+
+## 29.11.2022
+# Today's notes
+
+![](images/2022-11-29/notesA.jpeg)
+
+![](images/2022-11-29/notesB.jpeg)
+
+![](images/2022-11-29/notesC.jpeg)
+
+
+
+
 
 
 
