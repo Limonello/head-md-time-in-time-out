@@ -177,7 +177,7 @@ Person 6: -
 
 ## Others
 
-Person 2 specified that, during working days, they used a lot time as a marker (their boss singing indicates +- 12H30, ...). Since they works in a job implying cooking, smell is not a marker for them.
+Person 2 specified that, during working days, they used a lot sounds as a marker (their boss singing indicates +- 12H30, ...). Since they works in a job implying cooking, smell is not a marker for them.
 
 Person 3 use mainly light as time marker.
 
