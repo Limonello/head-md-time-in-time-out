@@ -199,7 +199,7 @@ Person 6 noticed nothing.
 
 ## Today's notes
 
-![](images/20221102/notes20221102.jpeg))
+![](images/2022-11-02/notes20221102.jpeg))
 
 ## 03.11.2022
 # Using time markers to percieve time
@@ -208,17 +208,17 @@ Person 6 noticed nothing.
 
 ## Today's notes
 
-![](images/20221103/notesA20221103.png)
+![](images/2022-11-03/notesA20221103.png)
 
-![](images/20221103/notesB20221103.png)
+![](images/2022-11-03/notesB20221103.png)
 
-![](images/20221103/notesC20220311.jpeg)
+![](images/2022-11-03/notesC20220311.jpeg)
 
-![](images/20221103/notesD20220311%201.jpeg)
+![](images/2022-11-03/notesD20220311%201.jpeg)
 
-![](images/20221103/notesE20221103.jpeg)
+![](images/2022-11-03/notesE20221103.jpeg)
 
-![](images/20221103/notesF20221103.jpeg)
+![](images/2022-11-03/notesF20221103.jpeg)
 
 ## 27.11.2022
 # Perceiving time through our five senses, round 2
@@ -277,9 +277,9 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 ## Notes about the structure of the prototype made with Twine
 
-![](images/20221127/notes20221127A.jpeg)
+![](images/2022-11-27/notes20221127A.jpeg)
 
-![](images/20221127/notes20221127B.jpeg)
+![](images/2022-11-27/notes20221127B.jpeg)
 
 ## 28.11.2022
 # Today's notes
