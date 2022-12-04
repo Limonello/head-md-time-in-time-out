@@ -303,6 +303,19 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 ![](images/2022-11-29/notesC.jpeg)
 
+## 04.12.2022
+# Potential references and idea for the interactive device
+
+[Arduino's ancestor/cousin ?](https://www.youtube.com/watch?v=GYTbxkCllEI)
+
+[(Almost) no-screen puzzle games examples](https://www.youtube.com/watch?v=TehroYRUlfE)
+
+[Can't find the name of this type of puzzle...](https://arouisse.com)
+
+[Rush Hour, a puzzle (?) classic](https://www.youtube.com/watch?v=HI0rlp7tiZ0)
+
+[Maybe and idea for "moving while revealing something" ?](https://www.youtube.com/watch?v=SsoZU6S8Ofc)
+
 
 
 
