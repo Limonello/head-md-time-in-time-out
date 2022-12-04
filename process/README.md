@@ -310,7 +310,7 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 [(Almost) no-screen puzzle games examples](https://www.youtube.com/watch?v=TehroYRUlfE)
 
-[Can't find the name of this type of puzzle...](https://arouisse.com)
+[Tangram puzzles](https://www.artesanum.com/product/2047401/tangram)
 
 [Rush Hour, a puzzle (?) classic](https://www.youtube.com/watch?v=HI0rlp7tiZ0)
 
