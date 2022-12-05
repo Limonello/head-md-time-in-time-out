@@ -321,7 +321,11 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 ![](images/2022-12-05/notesA.jpeg)
 
+## Other puzzle references
 
+[A circuit puzzle](https://www.youtube.com/watch?v=cVGzmkKIAMM)
+
+[A lego bracelet, cool idea for the wearable](https://www.mightyape.co.nz/product/lego-dots-cool-cactus-bracelet-41922/34561021)
 
 
 
