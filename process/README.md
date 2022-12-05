@@ -327,6 +327,10 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 [A lego bracelet, cool idea for the wearable](https://www.mightyape.co.nz/product/lego-dots-cool-cactus-bracelet-41922/34561021)
 
+The link isn't working properly so I just put a screenchot from the website:
+
+![](images/2022-12-05/screenchotA.png)
+
 
 
 
