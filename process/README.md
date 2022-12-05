@@ -316,6 +316,11 @@ Don't have specific time markers and the few ones I had can't be used since I mo
 
 [Maybe and idea for "moving while revealing something" ?](https://www.youtube.com/watch?v=SsoZU6S8Ofc)
 
+## 05.12.2022
+# Storylet example and Input/Output ideas
+
+![](images/2022-12-05/notesA.jpeg)
+
 
 
 
