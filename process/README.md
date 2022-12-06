@@ -331,6 +331,19 @@ The link isn't working properly so I just put a screenchot from the website:
 
 ![](images/2022-12-05/screenchotA.png)
 
+## 06.12.2022
+# Today's notes and some more links
+
+New idea for the interactive device :
+
+[View Master (I know it's the wikipedia page but the original (?) website wouldn't load...)](https://fr.wikipedia.org/wiki/View-Master)
+
+[Fisher Price Camera](https://www.fnac.com/Appareil-Photo-Fisher-Price/a7229164/w-4)
+
+![](images/2022-12-06/notesA.jpeg)
+
+![](images/2022-12-06/notesC.jpeg)
+
 
 
 
