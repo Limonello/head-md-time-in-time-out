@@ -344,6 +344,29 @@ New idea for the interactive device :
 
 ![](images/2022-12-06/notesC.jpeg)
 
+## 12.12.2022
+# Today's notes and documentation
+
+Documenting myself about astrophysics laboratories.
+
+[Laboratoire d'Astrophysique de Marseille](https://www.lam.fr/laboratoire/presentation/)
+
+[Au cœur du Laboratoire d'Astrophysique de Marseille](https://www.youtube.com/watch?v=qFiCh0UHAc4)
+
+[Film laboratoire d'astrophysique de Marseille](https://www.youtube.com/watch?v=beSo7IXM2UU)
+
+[UNIGE - Astronomy Department](https://www.unige.ch/sciences/astro/en/about-us/astronomy-department/)
+
+[L'observatoire du Pic du Midi](https://1001nuitsinsolites.com/lobservatoire-du-pic-du-midi/)
+
+[Futura - Qu'est-ce qu'une comète](https://www.youtube.com/watch?v=5AT2VRmyxG0)
+
+[I filmed Comet Neowise with my 12 inch Telescope !!!!](https://www.youtube.com/watch?v=r4dWMKE00hM)
+
+I also checked Cluedo's rules, mostly for the gameboard.
+
+[Cluedo](https://www.regledujeu.fr/cluedo/)
+
 
 
 
