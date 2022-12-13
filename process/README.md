@@ -344,6 +344,11 @@ New idea for the interactive device :
 
 ![](images/2022-12-06/notesC.jpeg)
 
+## 08.12.2022
+# Today's notes
+
+![](images/2022-12-08/notes.jpeg)
+
 ## 12.12.2022
 # Today's notes and documentation
 
@@ -366,6 +371,18 @@ Documenting myself about astrophysics laboratories.
 I also checked Cluedo's rules, mostly for the gameboard.
 
 [Cluedo](https://www.regledujeu.fr/cluedo/)
+
+![](images/2022-12-12/notesA.jpeg)
+
+![](images/2022-12-12/notesB.jpeg)
+
+![](images/2022-12-12/notesC.jpeg)
+
+![](images/2022-12-12/notesD.jpeg)
+
+![](images/2022-12-12/notesE.jpeg)
+
+![](images/2022-12-12/notesF.jpeg)
 
 
 
