@@ -384,6 +384,26 @@ I also checked Cluedo's rules, mostly for the gameboard.
 
 ![](images/2022-12-12/notesF.jpeg)
 
+## 09.01.2023
+# Today's notes and documentation
+
+I first thought to inspire me from "escape games to play at home" but quickly abandoned the idea.
+
+[A website listed some games](https://www.dicebreaker.com/mechanics/escape-room-game/best-games/best-escape-room-games)
+
+[Print + cut Escape game](https://cluequest.co.uk/print-cut-escape/index)
+
+[Us unlock! escape game](https://www.spacecowboys.fr/unlock-demos-english)
+
+![](images/2023-01-09/notes-what-the-project-is-made-of.jpeg)
+
+![](images/2023-01-09/notes-which-images-to-chose-2.jpeg)
+
+![](images/2023-01-09/notes-which-images-to-chose.jpeg)
+
+## 
+
+
 
 
 
